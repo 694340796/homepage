@@ -170,7 +170,7 @@ body {
 
 .zyyo-left {
     overflow-y: scroll;
-    width: 230px;
+    width: 240px;
     height: 100vh;
     display: flex;
     padding: 0 15px;
